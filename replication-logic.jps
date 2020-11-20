@@ -6,6 +6,8 @@ description:
   short: GlusterFS Cluster Replication Logic (Beta)                                                                                                                                                                                                                                 
 name: GlusterFS Cluster Replication Logic
 
+permanent: true
+
 globals:
   replicatedPath: ${settings.replicatedPath:/data}
                                                                                                                                                                               
